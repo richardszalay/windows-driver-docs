@@ -16,7 +16,7 @@ ms.technology: windows-devices
 ## <span id="ddk_choosing_the_best_tool_dbg"></span><span id="DDK_CHOOSING_THE_BEST_TOOL_DBG"></span>
 
 
-There are severa; different tools that can create user-mode dump files. In most cases, ADPlus is the best tool to use.
+There are several different tools that can create user-mode dump files. In most cases, ADPlus is the best tool to use.
 
 The following table shows the features of each tool.
 
